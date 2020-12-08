@@ -12,3 +12,4 @@ probably become progressively harder (for me).
 5. Swift
 6. R
 7. PHP
+8. JavaScript
