@@ -14,3 +14,4 @@ probably become progressively harder (for me).
 7. PHP
 8. JavaScript
 9. Groovy
+10. Perl
