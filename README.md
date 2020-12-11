@@ -15,3 +15,4 @@ probably become progressively harder (for me).
 8. JavaScript
 9. Groovy
 10. Perl
+11. Go
