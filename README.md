@@ -21,3 +21,4 @@ probably become progressively harder (for me).
 14. Ruby
 15. Lisp
 16. Lua
+17. Haskell
