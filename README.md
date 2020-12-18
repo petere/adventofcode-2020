@@ -22,3 +22,4 @@ probably become progressively harder (for me).
 15. Lisp
 16. Lua
 17. Haskell
+18. Fortran
