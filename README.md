@@ -24,3 +24,4 @@ probably become progressively harder (for me).
 17. Haskell
 18. Fortran
 19. OCaml
+20. Raku
