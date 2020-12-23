@@ -27,3 +27,4 @@ probably become progressively harder (for me).
 20. Raku
 21. Bash
 22. Scheme
+23. Scala
