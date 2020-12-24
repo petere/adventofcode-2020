@@ -28,3 +28,4 @@ probably become progressively harder (for me).
 21. Bash
 22. Scheme
 23. Scala
+24. Rust
