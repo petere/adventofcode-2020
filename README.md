@@ -29,3 +29,4 @@ probably become progressively harder (for me).
 22. Scheme
 23. Scala
 24. Rust
+25. Clojure
